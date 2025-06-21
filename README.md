@@ -92,3 +92,11 @@ Airlines like United and American received the highest number of negative tweets
 Common negative keywords include delayed, rude, cancelled, etc.
 
 *OUTPUT*:
+
+![Image](https://github.com/user-attachments/assets/cf89fad8-80bb-4827-b571-cef6be50582f)
+![Image](https://github.com/user-attachments/assets/8c969bb9-7fd3-4784-9612-de96bc243fce)
+![Image](https://github.com/user-attachments/assets/9e6c48c7-202e-4dfb-bcaf-3a27c4973131)
+![Image](https://github.com/user-attachments/assets/3ef48a26-b1e5-43ad-a763-ec7b6ae6477a)
+![Image](https://github.com/user-attachments/assets/403377f9-6350-4567-868b-921c49bb2b7d)
+![Image](https://github.com/user-attachments/assets/7822c9d0-a5ff-4183-9673-2454ba207974)
+
